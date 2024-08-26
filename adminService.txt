@@ -1,7 +1,7 @@
 add and remove users
 change roles
 manage the db
-cllosing the connectionq
+cllosing the database connectionq
 
 change 1
 change 2 in anushri's database
