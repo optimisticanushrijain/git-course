@@ -1,7 +1,9 @@
 add and remove users
 change roles
 manage the db
-closing the oracle local database connection
+
+closing the mysql remote database connection
+
 
 change 1
 change 2 in anushri's database
