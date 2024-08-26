@@ -1,7 +1,7 @@
 add and remove users
 change roles
 manage the db
-cllosing the database connectionq
+closing the oracle local database connection
 
 change 1
 change 2 in anushri's database
